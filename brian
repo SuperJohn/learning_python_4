@@ -1,4 +1,4 @@
-#Test commit.
+#One more.
 
 #!/usr/bin/python
-print 'The Dark Side ' + 'of Life...'
+print 'The Bright Side ' + 'of Life...'
